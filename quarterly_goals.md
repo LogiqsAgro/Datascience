@@ -17,7 +17,7 @@ Our goal is to do multiple small projects to:
 | Metric | 👎 | 👍 | Current score |
 | ---  | --- | --- | --- |
 | Number of conducted and published experiments | <3 | >6 | 2 |
-| Number of connected Dat-A-Control V3 systems to Elastic | 10 | 25 | ? |
+| Number of connected Dat-A-Control V3 systems to Elastic | 10 | 25 | [15](https://logiqsagro.kb.westeurope.azure.elastic-cloud.com:9243/spaces/space_selector) |
 | Downloads on Kaggle | 0 | >1 | 103 |
 | Stars on Github by people outside of Logiqs | 0 | >1 | 0 |
 | Forks on Github by people outside of Logiqs | 0 | >1 | 0 |
