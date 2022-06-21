@@ -26,5 +26,5 @@ Feel free to fork our projects here and on [Kaggle].
 
 ---
 
-  Notion: https://mewing-ice-c35.notion.site/04f0b19801364664a98c068d3742386f?v=35e0485f134e47e4b9c07bd7616a15b4
-  Kaggle: https://www.kaggle.com/jeroencrompvoets
+* Notion: https://mewing-ice-c35.notion.site/04f0b19801364664a98c068d3742386f?v=35e0485f134e47e4b9c07bd7616a15b4
+* Kaggle: https://www.kaggle.com/jeroencrompvoets
